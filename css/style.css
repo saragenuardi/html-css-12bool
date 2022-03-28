@@ -1,12 +1,14 @@
 .wrapper {
     width: 80%;
     margin: 0 auto;
-    background-color: red;
 }
 
- .row {
-     background-color: yellow
- }
+  .row {
+     background-color: #006CFA;
+     height: 100%;
+} 
+
+
 
  .box {
      width: 100%;
@@ -15,5 +17,14 @@
      background-color: #006CFA;
      color: white;
      text-align: center;
-     ;
+     
+} 
+
+ .inner-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #00e165;
+    height: 70px;
+    border: 10px solid #006CFA; 
  }
