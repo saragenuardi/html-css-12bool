@@ -1,0 +1,19 @@
+.container {
+    height: 300px;
+    background-color: red;
+}
+
+ .row {
+     
+     background-color: yellow
+ }
+
+ .box {
+     width: 100%;
+     height: 50px;
+     border: 4px solid white;
+     background-color: #006CFA;
+     color: white;
+     text-align: center;
+     ;
+ }
